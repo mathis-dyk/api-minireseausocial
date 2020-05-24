@@ -17,7 +17,8 @@
       "model": "user"
     },
     "like": {
-      "type": "integer"
+      "type": "integer",
+      "default": 0
     }
   }
 }
