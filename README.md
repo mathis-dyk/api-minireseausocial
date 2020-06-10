@@ -1,3 +1,8 @@
-# Strapi application
+# Educational API for students
 
-A quick description of your strapi application
+To test it, just run 
+
+```
+npm i
+npm run develop
+```
